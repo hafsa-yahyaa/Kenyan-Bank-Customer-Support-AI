@@ -1,0 +1,100 @@
+text,label,metadata
+"Luku imeisha manze, nisaidie.",billing_issue,source:whatsapp_survey
+Is there a branch in Mombasa?,general_inquiry,source:twitter_search
+Bundles zimeisha haraka sana.,network_issue,source:playstore_review
+Nimenunua tokens za 500 bob na sijaona message.,billing_issue,source:twitter_search
+"Please hold the money, it was a mistake.",transaction_reversal,source:customer_sms
+Reverse M-Pesa transaction confirmed.,transaction_reversal,source:simulated
+"Wrong number, please help me get my money back.",transaction_reversal,source:customer_sms
+Unsubscribe from premium services.,network_issue,source:playstore_review
+Mnafungua saa ngapi?,general_inquiry,source:whatsapp_survey
+Safaricom network down?,network_issue,source:twitter_search
+Transaction reversal request.,transaction_reversal,source:simulated
+Sijapata msg ya token after paying.,billing_issue,source:customer_sms
+"Meter blocked, please help.",billing_issue,source:customer_sms
+Failed transaction but money left account.,transaction_reversal,source:playstore_review
+Tokens zangu hazija reflect.,billing_issue,source:twitter_search
+"Hello, are you guys open today?",general_inquiry,source:simulated
+Internet is very slow in Nairobi West area.,network_issue,source:playstore_review
+"Sasa, mpo?",general_inquiry,source:whatsapp_survey
+Rudisha pesa zangu tafadhali.,transaction_reversal,source:customer_sms
+Mbona siwezi browse na niko na bundles?,network_issue,source:twitter_search
+Sent money to wrong recipient.,transaction_reversal,source:customer_sms
+Directions to your HQ please.,general_inquiry,source:twitter_search
+Thank you for the service.,general_inquiry,source:playstore_review
+Bill yangu imekuja juu sana mwezi huu.,billing_issue,source:playstore_review
+Mnafunga saa ngapi leo?,general_inquiry,source:customer_sms
+Meter number yangu haisomi tokens.,billing_issue,source:customer_sms
+"Siwezi buy bundles, system error.",network_issue,source:playstore_review
+My credit is disappearing mysteriously.,network_issue,source:playstore_review
+My tokens have not arrived yet.,billing_issue,source:twitter_search
+Woi nimetuma pesa kwa number wrong!,transaction_reversal,source:whatsapp_survey
+Sent to wrong agent number.,transaction_reversal,source:customer_sms
+Credit imekunywa na background data.,network_issue,source:playstore_review
+Asante sana.,general_inquiry,source:whatsapp_survey
+Can I visit your office?,general_inquiry,source:simulated
+My data bundles are finished but I didn't use them.,network_issue,source:playstore_review
+Account number for postpaid bill payment.,billing_issue,source:simulated
+Okoa jahazi refused but I paid.,network_issue,source:customer_sms
+Can you reverse money sent to wrong Paybill?,transaction_reversal,source:twitter_search
+Data balance check failed.,network_issue,source:simulated
+Reverse cash sent just now.,transaction_reversal,source:customer_sms
+Data manager is confusing me.,network_issue,source:playstore_review
+"Nilikua natuma kwa mama nikatuma kwa ex, reverse!",transaction_reversal,source:twitter_search
+Money deducted but not received.,transaction_reversal,source:playstore_review
+Please reverse this transaction immediately.,transaction_reversal,source:customer_sms
+KPLC meter yangu inalia sana.,billing_issue,source:whatsapp_survey
+"Good morning, I need help.",general_inquiry,source:simulated
+Jambo.,general_inquiry,source:simulated
+Subscribe me to weekly bundles.,network_issue,source:simulated
+Pesa imeenda kwa mtu mwingine.,transaction_reversal,source:customer_sms
+Do you have a customer care number?,general_inquiry,source:twitter_search
+Good job guys.,general_inquiry,source:playstore_review
+"I entered the wrong amount, please reverse.",transaction_reversal,source:playstore_review
+Where are your offices located?,general_inquiry,source:simulated
+Can I pay via paybill?,billing_issue,source:simulated
+Wrong till number used.,transaction_reversal,source:customer_sms
+Tokens message sijaipata bado.,billing_issue,source:customer_sms
+How do I join?,general_inquiry,source:simulated
+Hakikisha message says sent to wrong person.,transaction_reversal,source:simulated
+"Jirani ako na stima, mimi sina.",billing_issue,source:whatsapp_survey
+"Help, I sent rent to the wrong number.",transaction_reversal,source:twitter_search
+Niaje?,general_inquiry,source:whatsapp_survey
+Stima imepotea kwangu pekee.,billing_issue,source:whatsapp_survey
+I paid the bill but power is still off.,billing_issue,source:playstore_review
+Are you open on weekends?,general_inquiry,source:simulated
+Niliweka tokens na hazikusoma.,billing_issue,source:twitter_search
+How can I contact a human agent?,general_inquiry,source:playstore_review
+Why is my internet slow?,network_issue,source:twitter_search
+"Nimekosea namba ya simu, please reverse.",transaction_reversal,source:customer_sms
+Netiko iko chini sana leo manze.,network_issue,source:whatsapp_survey
+Contacts please.,general_inquiry,source:simulated
+4G network is not appearing.,network_issue,source:twitter_search
+Check debt status for my meter.,billing_issue,source:simulated
+Sambaza internet please.,network_issue,source:whatsapp_survey
+Tokens zimekataa kuingia kwa meter.,billing_issue,source:playstore_review
+Sim card not registered on network.,network_issue,source:simulated
+Fanya token top up please.,billing_issue,source:customer_sms
+Token generation system is down?,billing_issue,source:twitter_search
+Habari zenu?,general_inquiry,source:whatsapp_survey
+How do I check my bill balance?,billing_issue,source:simulated
+"Okay, thanks.",general_inquiry,source:customer_sms
+Nimekosea meter number nikinunua tokens.,billing_issue,source:customer_sms
+Power blackout in Nairobi West area.,billing_issue,source:twitter_search
+"Bye, have a nice day.",general_inquiry,source:simulated
+I sent 1000 bob to the wrong person.,transaction_reversal,source:twitter_search
+Cannot access Facebook.,network_issue,source:customer_sms
+Nimetuma pesa bahati mbaya.,transaction_reversal,source:whatsapp_survey
+Emergency tokens request.,billing_issue,source:customer_sms
+Internet speed is too slow for YouTube.,network_issue,source:playstore_review
+What are your working hours?,general_inquiry,source:simulated
+Nimetuma pesa kwa agent wrong.,transaction_reversal,source:simulated
+Bundles zangu zimepotea tu.,network_issue,source:twitter_search
+Unit zangu ziko low sana.,billing_issue,source:customer_sms
+Airtime scratch card not working.,network_issue,source:customer_sms
+Cancel that transaction please.,transaction_reversal,source:playstore_review
+Network fluctuating a lot today.,network_issue,source:twitter_search
+Mko wapi?,general_inquiry,source:whatsapp_survey
+Nunua bundles za usiku.,network_issue,source:whatsapp_survey
+Reverse transaction QH203...,transaction_reversal,source:simulated
+Nataka kuongea na customer care.,general_inquiry,source:playstore_review
